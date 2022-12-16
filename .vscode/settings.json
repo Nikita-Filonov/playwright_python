@@ -1,0 +1,19 @@
+{
+  "git.confirmSync": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "autopep8",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "python.linting.pylintArgs": ["--load-plugins=pylint_django"],
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "cSpell.words": ["anext", "MINIO", "speciality"],
+  "window.zoomLevel": 0.5,
+  "python.envFile": "${workspaceFolder}/.venv",
+  "python.linting.enabled": true,
+  "python.analysis.typeCheckingMode": "off"
+}
