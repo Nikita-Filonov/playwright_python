@@ -1,4 +1,4 @@
-from abc import ABC
+from abc import ABC, abstractmethod
 
 import allure
 from playwright.sync_api import Locator, Page, expect
@@ -11,6 +11,7 @@ class Component(ABC):
         self.locator = locator
 
     @property
+    @abstractmethod
     def type_of(self) -> str:
         return 'component'
 
