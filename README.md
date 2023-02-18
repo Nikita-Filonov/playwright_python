@@ -1,5 +1,7 @@
 # Playwright python
 
+[Demo allure report](https://nikita-filonov.github.io/playwright_python/)
+
 **Project setup**
 
 ```
