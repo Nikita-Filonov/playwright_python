@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Feb 18 18:45:34 MSK 2023","Sat Feb 18 18:45:48 MSK 2023","14270","tests","test_search","TestSearch","","","test_search[python]",""
